@@ -6,7 +6,7 @@ sections:
     section_id: hero
     component: HeroBlock
     content: >-
-      Online portfolio of[Rob Williams](https://www.robwcreate.com/about/).
+      Online portfolio of [Rob Williams](https://www.robwcreate.com/about/).
       Frontend Maker.
   - view_all_text: View All
     num_projects_displayed: 6
@@ -38,7 +38,7 @@ sections:
           Interaction design is a complex mix of UX, UI, IA and unique use
           cases. Every new client project is a collection problems just waiting
           to be solved!
-      - title: Solution-Driven
+      - title: Results-Focused
         content: >-
           I love to jump into a new system and improve it. Contact me for
           refactoring projects and CMS Maintenance.
