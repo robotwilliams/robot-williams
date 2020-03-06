@@ -8,7 +8,7 @@ template: project
 ---
 ## Client
 
-**Evron’s**mission is to upgrade your life by taking the products you interact with every day and optimize them. Evron’s suite of products for the home are selectively curated to increase your quality of life, and work exactly as you would want.
+**Evron’s** mission is to upgrade your life by taking the products you interact with every day and optimize them. Evron’s suite of products for the home are selectively curated to increase your quality of life, and work exactly as you would want.
 
 ## Project Details
 
