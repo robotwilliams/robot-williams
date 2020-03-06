@@ -8,7 +8,7 @@ template: project
 ---
 ## Client
 
-**Springboard Collaborative**is about collaborative goal-setting. Teachers and families work together to set a measurable reading goal specific to each child.
+**Springboard Collaborative** is about collaborative goal-setting. Teachers and families work together to set a measurable reading goal specific to each child.
 
 #### Project Details
 
