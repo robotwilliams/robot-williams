@@ -52,19 +52,19 @@ sections:
         avatar: /images/bernie.png
         content: Rob is a cool guy that loves to fix broken shit.
   - type: postsblock
-    title: Latest from the Blog
+    title: RoBlog
     section_id: latest-posts
     component: PostsBlock
-    subtitle: An optional subtitle of the section
+    subtitle: Blogin' like it's 2005 !
     num_posts_displayed: 2
     actions:
-      - label: View Blog
+      - label: Peep the Blog
         url: blog/index.html
   - type: contactblock
-    title: Contact Us
+    title: Contact Me
     section_id: contact
     component: ContactBlock
-    subtitle: An optional subtitle of the section
+    subtitle: 'Bug me if you want, don''t judge. '
 menus:
   main:
     title: Home
