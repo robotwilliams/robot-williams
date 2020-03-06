@@ -1,6 +1,6 @@
 ---
-title: Project Title 7
-subtitle: Optional Project Subtitle
+title: AFI
+subtitle: ''
 date: '2018-01-15'
 thumb_img_path: /images/afi-project-thmb.jpg
 content_img_path: /images/afi-project-thmb.jpg
