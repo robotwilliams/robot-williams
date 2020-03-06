@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 subtitle: A Collection of Recent Work
-layout_style: mosaic
+layout_style: tiles
 menus:
   main:
     title: Portfolio
