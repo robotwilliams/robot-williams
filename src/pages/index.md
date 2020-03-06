@@ -2,63 +2,55 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: "Robot Williams \U0001F916"
     section_id: hero
     component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-  - type: portfolioblock
-    title: Recent Work
-    section_id: latest-projects
-    component: PortfolioBlock
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
+      Online portfolio of[Rob Williams](https://www.robwcreate.com/about/).
+      Frontend Maker.
+  - view_all_text: View All
     num_projects_displayed: 6
-    view_all_text: View All
+    section_id: latest-projects
     view_all_url: portfolio/index.html
+    subtitle: Things I have worked on...
+    title: Recent Work
+    type: portfolioblock
+    layout_style: tiles
+    component: PortfolioBlock
   - type: servicesblock
-    title: What We Do
+    title: Skills
     section_id: services
     component: ServicesBlock
-    subtitle: An optional subtitle of the section
+    subtitle: My areas fo focus...
     serviceslist:
-      - title: Service Title
+      - title: Perspective
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-      - title: Service Title
+          My past experiences have given me the ability to deliver a final
+          execution that is intuitive and natural to the end user. I am able to
+          work independently or with a medium to large sized team.
+      - title: Future-Proofing
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-      - title: Service title
+          With so much of today’s media being viewed beyond standard device
+          size, it is crucial to design for media that literally cannot not be
+          seen, but is always being experienced.
+      - title: Process-Oriented
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - title: Service title
+          Interaction design is a complex mix of UX, UI, IA and unique use
+          cases. Every new client project is a collection problems just waiting
+          to be solved!
+      - title: Solution-Driven
         content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
+          I love to jump into a new system and improve it. Contact me for
+          refactoring projects and CMS Maintenance.
   - type: testimonialsblock
     title: Testimonials
     section_id: testimonials
     component: TestimonialsBlock
     subtitle: An optional subtitle of the section
     testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+      - author: Mike Kitner
+        avatar: /images/bernie.png
+        content: Rob is a cool guy that loves to fix broken shit.
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
