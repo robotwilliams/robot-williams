@@ -1,20 +1,21 @@
 {
-    "title": "Stackbit Exto Theme",
-    "color_scheme": "light",
-    "accent_color": "pink",
-    "header": {
-        "title": "Exto",
-        "has_nav": true
-    },
-    "footer": {
-        "content": "&copy; Stackbit-Exto. All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ],
-        "has_social": true
-    }
+  "title": "Robot Williams",
+  "color_scheme": "light",
+  "accent_color": "pink",
+  "header": {
+    "title": "Robot Williams",
+    "has_nav": true,
+    "logo_img": "/images/rw-logo.png"
+  },
+  "footer": {
+    "content": "&copy; RobotWilliams. All rights reserved.",
+    "links": [
+      {
+        "text": "Made by robw",
+        "url": "https://www.stackbit.com",
+        "new_window": true
+      }
+    ],
+    "has_social": true
+  }
 }
