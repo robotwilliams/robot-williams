@@ -1,6 +1,6 @@
 ---
-title: Project Title 1
-subtitle: SMPS New York
+title: SMPS New York
+subtitle: ''
 date: '2019-05-10'
 thumb_img_path: /images/smpsny-project-thumb.png
 content_img_path: /images/smpsny-project-thumb.png
