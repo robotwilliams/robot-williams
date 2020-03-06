@@ -8,7 +8,7 @@ template: project
 ---
 ## Client
 
-**U3 Studio**is a design-focused planning practice that integrates urban design and campus planning with real estate, community and economic development strategy.
+**U3 Studio** is a design-focused planning practice that integrates urban design and campus planning with real estate, community and economic development strategy.
 
 #### Project Details
 
