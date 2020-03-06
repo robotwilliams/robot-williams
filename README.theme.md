@@ -1,6 +1,6 @@
-# Exto
+# RobotWilliams Theme
 
-A portfolio theme with a blog for Stackbit. [Live Demo](https://themes.stackbit.com/demos/exto)
+Based on Exto: A portfolio theme with a blog for Stackbit. [Live Demo](https://themes.stackbit.com/demos/exto)
 
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-exto)
 
