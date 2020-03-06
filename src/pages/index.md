@@ -64,7 +64,7 @@ sections:
     title: Contact Me
     section_id: contact
     component: ContactBlock
-    subtitle: 'Bug me if you want, don''t judge. '
+    subtitle: 'Bug me if you want, I won''t judge. '
 menus:
   main:
     title: Home
