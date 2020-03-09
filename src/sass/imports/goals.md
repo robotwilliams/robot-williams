@@ -1,28 +1,29 @@
 # Goals
 
-- 2 Themes,
-  - Default
-  - Glitch
+  - 2 Themes,
+    - Default
+    - Glitch
 
-- 1 Switch to Toggle Front End Color 
+  - 1 Switch to Toggle Front End Color 
 
-- Aply Glitch Effects
+  - Apply Glitch Effects
 
 
-## Current Steps
 
-Change Theme Names to Default and Glitch Mode
+# Current Steps
 
-Expose Light Dark Theme Switch to Front End 
+  Change Theme Names to Default and Glitch Mode
 
-Apply Glitch effects to Photos on the Site
+  Expose Light Dark Theme Switch to Front End 
 
-Apply Color Pallete of Pink / Teal (Vaporwave)
+  Apply Glitch effects to Photos on the Site
 
-Apply Web Typography ( Oswalt + Arvo )
+  Apply Color Pallete of Pink / Teal (Vaporwave)
 
-## Next Steps
+  Apply Web Typography ( Oswalt + Arvo )
 
-Portfolio
-+
-Blog
+# Next Steps
+
+  Portfolio
+  +
+  Blog
