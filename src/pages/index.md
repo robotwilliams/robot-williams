@@ -2,11 +2,10 @@
 title: Home
 sections:
   - type: heroblock
-    title: "Robot Williams \U0001F916"
+    title: Robot Williams 🤖
     section_id: hero
     component: HeroBlock
-    content: >-
-      Online portfolio of [Rob Williams](https://www.robwcreate.com/about/).
+    content: Online portfolio of [Rob Williams](https://www.robwcreate.com/about/).
       Frontend Maker.
   - view_all_text: View All
     num_projects_displayed: 6
@@ -24,23 +23,19 @@ sections:
     subtitle: My areas fo focus...
     serviceslist:
       - title: Perspective
-        content: >-
-          My past experiences have given me the ability to deliver a final
+        content: My past experiences have given me the ability to deliver a final
           execution that is intuitive and natural to the end user. I am able to
           work independently or with a medium to large sized team.
       - title: Future-Proofing
-        content: >-
-          With so much of today’s media being viewed beyond standard device
-          size, it is crucial to design for media that literally cannot not be
-          seen, but is always being experienced.
+        content: With so much of today’s media being viewed beyond standard device size,
+          it is crucial to design for media that literally cannot not be seen,
+          but is always being experienced.
       - title: Process-Oriented
-        content: >-
-          Interaction design is a complex mix of UX, UI, IA and unique use
-          cases. Every new client project is a collection problems just waiting
-          to be solved!
+        content: Interaction design is a complex mix of UX, UI, IA and unique use cases.
+          Every new client project is a collection problems just waiting to be
+          solved!
       - title: Results-Focused
-        content: >-
-          I love to jump into a new system and improve it. Contact me for
+        content: I love to jump into a new system and improve it. Contact me for
           refactoring projects and CMS Maintenance.
   - type: testimonialsblock
     title: Testimonials
@@ -64,10 +59,10 @@ sections:
     title: Contact Me
     section_id: contact
     component: ContactBlock
-    subtitle: 'Bug me if you want, I won''t judge. '
+    subtitle: "Bug me if you want, I won't judge. "
 menus:
   main:
     title: Home
-    weight: 1
+    weight: 0
 template: home
 ---
