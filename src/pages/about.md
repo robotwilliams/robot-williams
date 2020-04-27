@@ -5,7 +5,7 @@ img_path: /images/rw-about.jpg
 menus:
   main:
     title: About
-    weight: 4
+    weight: 1
 template: page
 ---
 My name is Rob Williams. I am a multi-disciplined developer who currently resides in Philadelphia, PA. I enjoy new challenges, friendly people, and simplifying complex issues.
