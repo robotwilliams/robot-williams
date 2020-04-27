@@ -1,12 +1,12 @@
 ---
 title: Style Guide
-subtitle: >-
-  A blueprint of default post and page styles. The style guide is also a great
-  reference for suggested typographic treatment and styles for your content.
+subtitle: A blueprint of default post and page styles. The style guide is also a
+  great reference for suggested typographic treatment and styles for your
+  content.
 menus:
   main:
     title: Style Guide
-    weight: 3
+    weight: 4
 template: page
 ---
 
