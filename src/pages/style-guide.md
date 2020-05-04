@@ -6,7 +6,7 @@ subtitle: A blueprint of default post and page styles. The style guide is also a
 menus:
   main:
     title: Style Guide
-    weight: 4
+    weight: 6
     identifier: style-guide
 template: page
 ---
