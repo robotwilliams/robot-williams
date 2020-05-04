@@ -203,3 +203,7 @@
     width: 100%;
   }
 }
+
+li.menu-item:last-of-type {
+  display: none;
+}
