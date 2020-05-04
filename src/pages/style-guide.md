@@ -7,6 +7,7 @@ menus:
   main:
     title: Style Guide
     weight: 4
+    identifier: style-guide
 template: page
 ---
 
