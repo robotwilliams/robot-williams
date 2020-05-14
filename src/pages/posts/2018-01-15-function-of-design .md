@@ -1,6 +1,6 @@
 ---
 title: Good Design Means Allowing Design To Actually Function
-subtitle: "A interesting tale about function of design "
+subtitle: Functional Design
 date: 2018-01-15T00:00:00.000Z
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
