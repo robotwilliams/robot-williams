@@ -1,12 +1,12 @@
 ---
-title: The Elements of Great Workplace Design
-date: '2019-03-24'
+title: A Great Workplace Design
+subtitle: "The elements of a perfect Productivity hub. "
+date: 2019-03-24
 thumb_img_path: images/11.jpg
 content_img_path: images/11.jpg
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
-  accumsan vis phasellus adipiscing. 
+excerpt: "Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
+  accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet
+  commodo accumsan vis phasellus adipiscing. "
 template: post
 ---
 
