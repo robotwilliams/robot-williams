@@ -45,9 +45,9 @@ sections:
     testimonialslist:
       - author: Mike Kitner
         avatar: /images/blank-avatar-man-in-suit.jpg
-        content: "Rob was able to get out blog up and running after looking at the issue
+        content: Rob was able to get our blog up and running after looking at the issue
           for a short period of time. He also improved the code to allow a
-          quicker load time. "
+          quicker load times.
   - type: postsblock
     title: RoBlog
     section_id: latest-posts
