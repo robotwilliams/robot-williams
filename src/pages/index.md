@@ -43,7 +43,7 @@ sections:
     component: TestimonialsBlock
     subtitle: An optional subtitle of the section
     testimonialslist:
-      - author: Mike Kitner
+      - author: Allen Dawson
         avatar: /images/blank-avatar-man-in-suit.jpg
         content: Rob was able to get our blog up and running after looking at the issue
           for a short period of time. He also improved the code to allow a
