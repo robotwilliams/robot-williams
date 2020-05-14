@@ -1,13 +1,12 @@
 ---
-title: The function of design is letting design function
-subtitle: 'A interesting tale about function of design '
-date: '2018-01-15'
+title: Design Should Just let Design Function
+subtitle: "A interesting tale about function of design "
+date: 2018-01-15
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet
-  dictum sit. Duis ut diam quam nulla porttitor massa id neque.
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus
+  sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque.
 template: post
 ---
 
