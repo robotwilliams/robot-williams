@@ -56,7 +56,7 @@ sections:
       - label: Peep the Blog
         url: blog/index.html
   - type: contactblock
-    title: Contact Me
+    title: Say Hi
     section_id: contact
     component: ContactBlock
     subtitle: "Bug me if you want, I won't judge. "
