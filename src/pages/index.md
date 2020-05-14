@@ -25,7 +25,7 @@ sections:
       - title: Perspective
         content: My past experiences have given me the ability to deliver a final
           execution that is intuitive and natural to the end user. I am able to
-          work independently or with a medium to large sized team.
+          work independently or with a small to large sized team.
       - title: Future-Proofing
         content: With so much of today’s media being viewed beyond standard device size,
           it is crucial to design for media that literally cannot not be seen,
