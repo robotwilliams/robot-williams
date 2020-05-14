@@ -1,6 +1,6 @@
 ---
 title: Web Typography
-subtitle: Why Web Fonts Are Important
+subtitle: Why web fonts are important.
 date: 2019-03-27T00:00:00.000Z
 thumb_img_path: images/12.jpg
 content_img_path: images/12.jpg
