@@ -1,7 +1,7 @@
 ---
 title: WFH Pros and Cons
 subtitle: Advantages and Disadvantages of Working from Home
-date: 2016-08-22T00:00:00.000Z
+date: 2018-04-12T00:00:00.000Z
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
 excerpt: Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi
