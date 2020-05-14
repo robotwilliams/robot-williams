@@ -1,6 +1,6 @@
 ---
-title: A Great Workplace Design
-subtitle: "The elements of a perfect Productivity hub. "
+title: The Perfect Workspace
+subtitle: "The elements of a perfect productivity hub. "
 date: 2019-03-24
 thumb_img_path: images/11.jpg
 content_img_path: images/11.jpg
