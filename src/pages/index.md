@@ -44,8 +44,10 @@ sections:
     subtitle: An optional subtitle of the section
     testimonialslist:
       - author: Mike Kitner
-        avatar: /images/bernie.png
-        content: Rob is a cool guy that loves to fix broken shit.
+        avatar: /images/blank-avatar-man-in-suit.jpg
+        content: "Rob was able to get out blog up and running after looking at the issue
+          for a short period of time. He also improved the code to allow a
+          quicker load time. "
   - type: postsblock
     title: RoBlog
     section_id: latest-posts
