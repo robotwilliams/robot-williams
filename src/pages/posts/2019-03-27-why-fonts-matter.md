@@ -9,4 +9,4 @@ excerpt: Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum
   placerat lorem turpis at.
 template: post
 ---
-While working as a designer I spent many work days posturing with my art director over the proper font choices to use. Much of that work involved creating a strong font combination. The main point of choosing a strong font combo is to communicate your message through visual hierarchy in the most efficient way. While you are always working towards a strong visual impact, there more nuanced reasons as to why you should choose a strong font choice early in the web design & development process.
+While working as a designer I spent many days posturing with my boss over the proper font choices to use. Much of that work involved creating a strong font combination. The main point of choosing a strong font combination is to communicate your message efficiently through a visual hierarchy. While working towards a strong visual impact, there more nuanced reasons as to why you should choose a strong font choice early in the web design & development process.
