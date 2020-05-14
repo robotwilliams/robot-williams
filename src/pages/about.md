@@ -10,4 +10,6 @@ template: page
 ---
 My name is Rob Williams. I am a multi-disciplined developer who currently resides in Philadelphia, PA. I enjoy new challenges, friendly people, and simplifying complex issues.
 
-Lately I have become very excited about building headless WordPress sites with modern tools such as Gutenberg, React, Vue, PHP and Rails. I also enjoy working with CraftCMS and Shopify. I have been a full-time web developer for almost 10 years.
+I formerly worked in print & web design before moving into web development years ago. My background is in front-end and CMS development. I've primarily worked in Wordpress, Shopify, and I very much like Craft CMS. I can work in most CMS systems and I want to work more with vanilla javascript and modern frameworks such as Vue and React.\
+\
+I like to build new things with new efficient stacks, but I also love refactoring and debugging legacy code at work. I've actually grown fond jumping into different systems and hitting the ground running.
