@@ -49,7 +49,7 @@ sections:
           for a short period of time. He also improved the code to allow a
           quicker load times.
   - type: postsblock
-    title: RoBlog
+    title: Blog
     section_id: latest-posts
     component: PostsBlock
     subtitle: Blogin' like it's 2005 !
