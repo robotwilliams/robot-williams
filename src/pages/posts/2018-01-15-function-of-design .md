@@ -1,7 +1,7 @@
 ---
-title: Design Should Just let Design Function
+title: Good Design Means Allowing Design To Actually Function
 subtitle: "A interesting tale about function of design "
-date: 2018-01-15
+date: 2018-01-15T00:00:00.000Z
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
