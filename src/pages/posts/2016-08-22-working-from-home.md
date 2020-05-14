@@ -4,9 +4,10 @@ subtitle: Advantages and Disadvantages of Working from Home
 date: 2018-04-12T00:00:00.000Z
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
-excerpt: Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi
-  quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris
-  rhoncus aenean vel elit scelerisque mauris pellentesque.
+excerpt: Working from home can be incredibly empowering to some, and devastating
+  to others. I have always wanted to write a post about my experiences working
+  from home, and now with the world being shut down temporarily, I thought this
+  might be a good time to talk about it.
 template: post
 ---
 Working from home can be incredibly empowering to some, and devastating to others. I have always wanted to write a post about my experiences working from home, and now with the world being shut down temporarily, I thought this might be a good time to talk about it. 
