@@ -1,7 +1,7 @@
 ---
 title: U3 Studio
-subtitle: ''
-date: '2019-01-05'
+subtitle: ""
+date: 2019-01-05
 thumb_img_path: /images/u3-project-feature.png
 content_img_path: /images/u3-project-feature.png
 template: project
