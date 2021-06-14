@@ -1,7 +1,7 @@
 ---
 title: SMPS New York
-subtitle: ''
-date: '2019-05-10'
+subtitle: ""
+date: 2019-05-10
 thumb_img_path: /images/smpsny-project-thumb.png
 content_img_path: /images/smpsny-project-thumb.png
 template: project
@@ -17,9 +17,7 @@ for:[SMPS New York](https://www.smpsny.org/),\
 Date:2018\
 Skills:Front End Development, Web Design, Web Development, UX, UI.
 
-
-
-![](/images/smpsny-dsk.png)
+![](/images/sbn-dsk.png)
 
 ![](/images/smpsny-tblt.png)
 
