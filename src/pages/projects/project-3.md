@@ -17,7 +17,7 @@ for:[Evron](https://www.shopevron.com/),\
 Date:2018\
 Skills:Front End Development, Web Design, Web Development, UX, UI, eCommerce
 
-![](/images/evrn-dsk.png)
+![](/images/evrn-dsk-1.png)
 
 ![](/images/evrn-tblt.png)
 
