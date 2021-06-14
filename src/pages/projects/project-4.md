@@ -1,7 +1,7 @@
 ---
 title: Springboard Collaborative
-subtitle: ''
-date: '2019-02-26'
+subtitle: ""
+date: 2019-02-26
 thumb_img_path: /images/sbc-project-thumb.jpg
 content_img_path: /images/sbc-project-thumb.jpg
 template: project
