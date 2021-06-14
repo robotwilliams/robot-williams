@@ -12,9 +12,9 @@ template: project
 
 ### Project Details
 
-for: [QuickSip](https://www.quicksipdelivery.com/),\
-Date:2018\
-Skills:Front End Development, Web Design, Web Development, UX, UI.
+**For**: [QuickSip](https://www.quicksipdelivery.com/),\
+**Date**: 2018\
+**Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
 ![](/images/qs-dsk.jpg)
 
