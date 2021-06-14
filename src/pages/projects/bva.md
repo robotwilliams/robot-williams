@@ -12,8 +12,8 @@ template: project
 
 #### Project Details
 
-**by:** [B](https://bvacommerce.com/)VA,\
-**for:[ ](http://www.americanfabricators.com/)BVA**,\
+**By:** [B](https://bvacommerce.com/)VA,\
+**For:[ ](http://www.americanfabricators.com/)BVA**,\
 **Date:** 2020\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
