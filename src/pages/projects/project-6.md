@@ -16,8 +16,8 @@ for: [QuickSip](https://www.quicksipdelivery.com/),\
 Date:2018\
 Skills:Front End Development, Web Design, Web Development, UX, UI.
 
-![](/images/qs-dsk.png)
+![](/images/qs-dsk.jpg)
 
-![](/images/qs-tblt.png)
+![](/images/qs-tblt.jpg)
 
 ![](/images/qs-phn.png)
