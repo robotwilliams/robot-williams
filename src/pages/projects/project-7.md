@@ -1,7 +1,7 @@
 ---
 title: AFI
-subtitle: ''
-date: '2018-01-15'
+subtitle: ""
+date: 2018-01-15
 thumb_img_path: /images/afi-project-thmb.jpg
 content_img_path: /images/afi-project-thmb.jpg
 template: project
@@ -16,6 +16,8 @@ template: project
 **for:**[American Fabricators Inc](http://www.americanfabricators.com/),\
 **Date:**2017\
 **Skills:**Front End Development, Web Design, Web Development, UX, UI.
+
+![](/images/afi-dsktmblpgrp-wbimg.jpg)
 
 ![](/images/afi-dsktp.jpg)
 
