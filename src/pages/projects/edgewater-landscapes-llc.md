@@ -12,10 +12,10 @@ template: project
 
 ## Project Details
 
-by:[](http://www.pixelparlor.com/)[Rob Williams](https://www.robotwlliams.com/),\
-for: [E](https://www.edgewaterlandscapesllc.com/)dgewater Landscapes LLC,\
-Date: 2019-Current\
-Skills: Front End Development, Web Design, Web Development, UX, UI.
+**By:** [](http://www.pixelparlor.com/)[Rob Williams](https://www.robotwlliams.com/),\
+**For:** [E](https://www.edgewaterlandscapesllc.com/)dgewater Landscapes LLC,\
+**Date:** 2019-Current\
+**Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
 ![](/images/edgwtr-dsk.png)
 
