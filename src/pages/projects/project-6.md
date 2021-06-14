@@ -1,7 +1,7 @@
 ---
 title: Quick Sip
-subtitle: ''
-date: '2018-12-18'
+subtitle: ""
+date: 2018-12-18
 thumb_img_path: /images/qs-project-thmb.png
 content_img_path: /images/qs-project-thmb.png
 template: project
