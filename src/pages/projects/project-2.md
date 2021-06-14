@@ -12,10 +12,10 @@ template: project
 
 ## Project Details
 
-**by:**[Pixel Parlor](http://www.pixelparlor.com/),\
-**for:**[SBN Philadelphia](https://www.sbnphiladelphia.org/),\
-**Date:**2017\
-**Skills:**Front End Development, Web Design, Web Development, UX/UI.
+**By:** [Pixel Parlor](http://www.pixelparlor.com/),\
+**For:** [SBN Philadelphia](https://www.sbnphiladelphia.org/),\
+**Date:** 2017\
+**Skills:** Front End Development, Web Design, Web Development, UX/UI.
 
 ![](/images/sbn-dsk-1.png)
 
