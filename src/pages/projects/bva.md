@@ -8,7 +8,7 @@ template: project
 ---
 ## Client
 
-**In-house** studio rebrand/site redesign for the agency I work at.
+An **In-house** studio rebrand/site redesign for the agency where I am employed.
 
 #### Project Details
 
