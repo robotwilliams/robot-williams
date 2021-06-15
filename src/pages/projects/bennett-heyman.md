@@ -1,26 +1,26 @@
 ---
-title: Bennett Heyman
+title: GKD
 subtitle: ""
-date: 2016-06-08T22:51:13.187Z
-thumb_img_path: /images/bh-project-thmb.jpg
-content_img_path: /images/bh-project-thmb.jpg
+date: 2017-11-13T23:51:13.187Z
+thumb_img_path: /images/gkd-fimage.jpg
+content_img_path: /images/gkd-fimage.jpg
 template: project
 ---
 ## Client
 
-A website build for a law firm that specializes in malpractice.
+A website build for a law firm in the Philadelphia.
 
 #### Project Details
 
 **By:** [Rob W](https://www.robotwilliams.com/)\
-**For:**[](http://www.americanfabricators.com/) Bennett Heyman\
+**For:**[](http://www.americanfabricators.com/) GKD\
 **Date:** 2015\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
-![](/images/bh-dsktmblpgrp-wbimg.jpg)
+![](/images/gkd-dvc-grp.jpg)
 
-![](/images/bh-dsktp.jpg)
+![](/images/gkd-dsktp.jpg)
 
-![](/images/bh-tblt.jpg)
+![](/images/gkd-tablet.jpg)
 
-![](/images/bh-phn.jpg)
+![](/images/gkd-phn.jpg)
