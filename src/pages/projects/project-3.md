@@ -12,10 +12,10 @@ template: project
 
 ## Project Details
 
-by:[Pixel Parlor](http://www.pixelparlor.com/),\
-for:[Evron](https://www.shopevron.com/),\
-Date:2018\
-Skills:Front End Development, Web Design, Web Development, UX, UI, eCommerce
+**By:** [Pixel Parlor](http://www.pixelparlor.com/)\
+**For:** [Evron](https://www.shopevron.com/)\
+**Date:** 2018\
+**Skills:** Front End Development, Web Design, Web Development, UX, UI, eCommerce
 
 ![](/images/evrn-dsk-1.png)
 
