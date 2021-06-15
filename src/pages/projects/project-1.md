@@ -17,7 +17,7 @@ template: project
 **Date:** 2018\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
-![](/images/sbn-dsk.png)
+![](/images/smpsny-dsk.png)
 
 ![](/images/smpsny-tblt.png)
 
