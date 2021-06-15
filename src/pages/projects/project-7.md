@@ -12,10 +12,10 @@ template: project
 
 #### Project Details
 
-**by:** [Pixel Parlor](http://www.pixelparlor.com/),\
-**for:**[American Fabricators Inc](http://www.americanfabricators.com/),\
-**Date:**2017\
-**Skills:**Front End Development, Web Design, Web Development, UX, UI.
+**By:** [Pixel Parlor](http://www.pixelparlor.com/)\
+**For:** [American Fabricators Inc](http://www.americanfabricators.com/)\
+**Date:** 2017\
+**Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
 ![](/images/afi-dsktmblpgrp-wbimg.jpg)
 
