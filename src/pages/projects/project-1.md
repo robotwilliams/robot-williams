@@ -2,8 +2,8 @@
 title: SMPS New York
 subtitle: ""
 date: 2019-05-10
-thumb_img_path: /images/smpsny-project-thumb.png
-content_img_path: /images/smpsny-project-thumb.png
+thumb_img_path: /images/smpsny-project-thumb.jpg
+content_img_path: /images/smpsny-project-thumb.jpg
 template: project
 ---
 ## Client
