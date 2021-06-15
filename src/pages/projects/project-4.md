@@ -12,10 +12,10 @@ template: project
 
 #### Project Details
 
-**by:**[Pixel Parlor](http://www.pixelparlor.com/),\
-**for:**[Springboard Collaborative](https://www.springboardcollaborative.org/),\
-**Date:**2017\
-**Skills:**Front End Development, Web Design, Web Development, UX, UI.
+**By:** [Pixel Parlor](http://www.pixelparlor.com/)\
+**For:** [Springboard Collaborative](https://www.springboardcollaborative.org/)\
+**Date:** 2017\
+**Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
 ![](/images/sbc-dsktp1.jpg)
 
