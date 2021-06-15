@@ -12,8 +12,8 @@ template: project
 
 #### Project Details
 
-**By:** [Pixel Parlor](http://www.pixelparlor.com/),\
-**For:** [Springboard Collaborative](https://www.springboardcollaborative.org/),\
+**By:** [Pixel Parlor](http://www.pixelparlor.com/)\
+**For:** [Springboard Collaborative](https://www.springboardcollaborative.org/)\
 **Date:** 2017\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
