@@ -1,7 +1,7 @@
 ---
 title: BVA
 subtitle: ""
-date: 2018-01-16T05:00:00.000Z
+date: 2018-01-15T05:00:00.000Z
 thumb_img_path: /images/studio-project-thumb.jpg
 content_img_path: /images/studio-project-thumb.jpg
 template: project
