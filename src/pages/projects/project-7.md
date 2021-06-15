@@ -1,7 +1,7 @@
 ---
 title: AFI
 subtitle: ""
-date: 2018-01-15
+date: 2019-07-27T04:00:00.000Z
 thumb_img_path: /images/afi-project-thmb.jpg
 content_img_path: /images/afi-project-thmb.jpg
 template: project
