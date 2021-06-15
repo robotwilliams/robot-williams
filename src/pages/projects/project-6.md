@@ -12,8 +12,9 @@ template: project
 
 ### Project Details
 
-**For**: [QuickSip](https://www.quicksipdelivery.com/),\
-**Date**: 2018\
+**For**: [QuickSip](https://www.quicksipdelivery.com/)\
+**By:** [Rob W](https://www.robotwilliams.com/)\
+**Date**: 2016\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
 ![](/images/qs-dsk.jpg)
