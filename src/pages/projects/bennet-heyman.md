@@ -1,7 +1,7 @@
 ---
 title: Bennet Heyman
 subtitle: ""
-date: 2016-04-13T16:34:30.899Z
+date: 2016-03-17T16:34:30.899Z
 thumb_img_path: /images/bh-project-thmb.jpg
 content_img_path: /images/bh-project-thmb.jpg
 template: project
