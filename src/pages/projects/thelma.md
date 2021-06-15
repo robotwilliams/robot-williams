@@ -17,10 +17,6 @@ A website for the independent film "Thelma".
 **Date:** 2017\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
-![]()
-
-![]()
-
 ![](/images/thelma-dsktmblpgrp-wbimg.jpg)
 
 ![](/images/thelma-dsktp.jpg)
@@ -28,3 +24,7 @@ A website for the independent film "Thelma".
 ![](/images/thelma-tblt.jpg)
 
 ![](/images/thelma-phn.jpg)
+
+![]()
+
+![]()
