@@ -12,8 +12,8 @@ template: project
 
 ## Project Details
 
-**By:** [Pixel Parlor](http://www.pixelparlor.com/),\
-**For:** [Evron](https://www.shopevron.com/),\
+**By:** [Pixel Parlor](http://www.pixelparlor.com/)\
+**For:** [Evron](https://www.shopevron.com/)\
 **Date:** 2018\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI, eCommerce
 
