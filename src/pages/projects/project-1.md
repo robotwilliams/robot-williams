@@ -12,12 +12,12 @@ template: project
 
 ## Project Details
 
-by:[Pixel Parlor](http://www.pixelparlor.com/),\
-for:[SMPS New York](https://www.smpsny.org/),\
-Date:2018\
-Skills:Front End Development, Web Design, Web Development, UX, UI.
+**By:** [Pixel Parlor](http://www.pixelparlor.com/)\
+**For:** [SMPS New York](https://www.smpsny.org/)\
+**Date:**2018\
+**Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
-![](/images/sbn-dsk.png)
+![](/images/smpsny-dsk.png)
 
 ![](/images/smpsny-tblt.png)
 
