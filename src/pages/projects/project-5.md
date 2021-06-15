@@ -12,8 +12,8 @@ template: project
 
 #### Project Details
 
-**By:** [Pixel Parlor](http://www.pixelparlor.com/),\
-**For: [U3 Studio](https://www.u3studio.com/)**,\
+**By:** [Pixel Parlor](http://www.pixelparlor.com/)\
+**For:** [U3 Studio](https://www.u3studio.com/)\
 **Date:** 2018\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
