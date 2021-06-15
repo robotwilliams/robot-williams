@@ -8,12 +8,12 @@ template: project
 ---
 ## Client
 
-**In-house** studio rebrand/site redesign. This was completed by a team of 12 team members.
+**In-house** studio rebrand/site redesign for the agency I work at.
 
 #### Project Details
 
-**by:** [B](https://bvacommerce.com/)VA,\
-**for:[ ](http://www.americanfabricators.com/)BVA**,\
+**By:** BVA,\
+**For:**[ ](http://www.americanfabricators.com/)BVA,\
 **Date:** 2020\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
