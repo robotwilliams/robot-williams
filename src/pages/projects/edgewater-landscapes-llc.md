@@ -12,8 +12,8 @@ template: project
 
 ## Project Details
 
-**By:** [](http://www.pixelparlor.com/)[Rob Williams](https://www.robotwlliams.com/),\
-**For:** [E](https://www.edgewaterlandscapesllc.com/)dgewater Landscapes LLC,\
+**By:** [](http://www.pixelparlor.com/)Rob W\
+**For:** [Edgewater Landscapes LLC](https://www.edgewaterlandscapesllc.com/)\
 **Date:** 2019-Current\
 **Skills:** Front End Development, Web Design, Web Development, UX, UI.
 
